@@ -1,0 +1,21 @@
+[submodule "SQL-Repositories/GoEddie/ScriptDomVisualizer"]
+	path = SQL-Repositories/GoEddie/ScriptDomVisualizer
+	url = https://github.com/GoEddie/ScriptDomVisualizer.git
+[submodule "SQL-Repositories/GoEddie/SQLCover"]
+	path = SQL-Repositories/GoEddie/SQLCover
+	url = https://github.com/GoEddie/SQLCover.git
+[submodule "SQL-Repositories/GoEddie/tSQLt-TestAdapter"]
+	path = SQL-Repositories/GoEddie/tSQLt-TestAdapter
+	url = https://github.com/GoEddie/tSQLt-TestAdapter.git
+[submodule "SQL-Repositories/GoEddie/DacpacMerge"]
+	path = SQL-Repositories/GoEddie/DacpacMerge
+	url = https://github.com/GoEddie/DacpacMerge.git
+[submodule "SQL-Repositories/GoEddie/DacFx-Info"]
+	path = SQL-Repositories/GoEddie/DacFx-Info
+	url = https://github.com/GoEddie/DacFx-Info.git
+[submodule "otherrep/GoEddie/docs"]
+	path = otherrep/GoEddie/docs
+	url = https://github.com/GoEddie/docs.git
+[submodule "otherrep/GoEddie/gitignore"]
+	path = otherrep/GoEddie/gitignore
+	url = https://github.com/GoEddie/gitignore.git
